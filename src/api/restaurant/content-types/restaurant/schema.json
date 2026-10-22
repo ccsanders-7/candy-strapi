@@ -34,6 +34,10 @@
         "videos",
         "audios"
       ]
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "Name"
     }
   }
 }
